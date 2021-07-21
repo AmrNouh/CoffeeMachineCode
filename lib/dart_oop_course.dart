@@ -55,6 +55,9 @@ Why OOP ? :
 3- Easier To Maintain , scale and Troubleshoot
 4- Less time and less cost of development
 
+Class -> هو الوصف بتاع الاوبجيكت
+
+
 Coffee Machine Example :-
 
 1- Version 1.0
@@ -80,9 +83,13 @@ Behaviors(Methods):
   - isCoffeeEnough() : bool
   - warnWaterLevelLow() : void
   - warnCoffeeLevelLow() : void
+  - makeCoffee(int) : void
 
 بتاعتى Requirement لل OOP Model انا كده عملت
 بس ده مش الشكل الاستاندر او المتبع فى التعبير عن الاوبجيكت
+ازاى نعبر عن الكلاسس وازاى نشيرها مع بعض او ازاى نعمل موديلينج ليها
+UML class Diagram الشكل المتعارف عليه او المتفق عليه فى تمثيل الكلاس اللى هو
+
 
 
   */
