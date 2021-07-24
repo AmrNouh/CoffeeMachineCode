@@ -1,6 +1,8 @@
 import '../lib/coffee_machine.dart';
 
 void main(){
+
+  // Course Part I ( Coffee Machine)
   var machine1 = CoffeeMachine(waterLevel : 1000, coffeeLevel :100);
   // var machine1 = CoffeeMachine();
   // machine1.fakeWaterAdd(1000);
@@ -11,4 +13,6 @@ void main(){
   machine1.makeCoffee(CoffeeSize.COFFEE_SIZE_XLARGE);
   machine1.makeCoffee(CoffeeSize.COFFEE_SIZE_XLARGE);
   machine1.makeCoffee(CoffeeSize.COFFEE_SIZE_XLARGE);
+
+
 }
